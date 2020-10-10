@@ -1,4 +1,4 @@
-# Project 3 - *Name of App Here*
+# Project 3 - *Twitter_Reader*
 
 **Twitter_Reader** Build a simple Twitter client that allows users to log in and view their feed.
 
