@@ -1,8 +1,8 @@
 # Project 3 - *Name of App Here*
 
-**Name of your app** is a basic twitter app to read your tweets.
+**Twitter_Reader** Build a simple Twitter client that allows users to log in and view their feed.
 
-Time spent: **X** hours spent in total
+Time spent: **3-4** hours spent in total
 
 ## User Stories
 
