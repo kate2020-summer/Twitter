@@ -27,7 +27,7 @@ Here's a walkthrough of implemented user stories:
 
 
 
-**Twitter_Reader** Build a simple Twitter client that allows users to log in and view their feed.
+#**Twitter_Reader** Build a simple Twitter client that allows users to log in and view their feed.
 
 Time spent: **3-4** hours spent in total
 
